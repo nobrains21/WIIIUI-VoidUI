@@ -7,7 +7,7 @@ Skin is based on QueenslandUI, made by [Spellbound](https://www.hiveworkshop.com
 All credits for the art i used to make this skin should go to him. I own none of it and will remove this if promted.
 ___
 This is what the end result looks like:
-![void](https://user-images.githubusercontent.com/59528934/153576079-7ef98657-4644-42c8-b7ff-8cbc3cc5bda4.png)
+![void2](https://user-images.githubusercontent.com/59528934/153576842-7be67efe-f644-4c22-8bdf-7e0832173827.png)
  
 # Installation
 - Download [WIIIUI Addon](https://github.com/Fiurs-Hearth/WIIIUI) and install it;
@@ -22,3 +22,4 @@ Feel free to bash me for leaving some unfinished stuff here and there.
  
 # Known issues:
 - the chat bar goes as hight as 83, making it any higher will break the left vertical line.
+- middle bar looks like it was built out of small pieces. layed down on top of each other. The mod stiches them together like that. I think this could be fixed later, after the next update for WIIIUI
