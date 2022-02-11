@@ -21,5 +21,5 @@ In case you already have custom skins installed - change folder's name from **cu
 Feel free to bash me for leaving some unfinished stuff here and there. 
  
 # Known issues:
-- the chat bar goes as hight as 83, making it any higher will break the left vertical line.
+- the chat bar goes as high as 83, making it any higher in the settings will break the left vertical line. I dont know how to make it longer.
 - middle bar looks like it was built out of small pieces. layed down on top of each other. The mod stiches them together like that. I think this could be fixed later, after the next update for WIIIUI
