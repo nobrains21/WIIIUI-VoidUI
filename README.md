@@ -3,7 +3,7 @@ Alternative skin for WIIIUI addon, made by Fiurs-Heart.
  
 You can download the addon here: https://github.com/Fiurs-Hearth/WIIIUI
 ___
-Skin is based on QueenslandUI, made by [Spellbound](https://www.hiveworkshop.com/members/spellbound.116571/), for Warcraft 3.
+Skin is based on UI for [Heaven's Fall](https://www.hiveworkshop.com/threads/heavens-fall-melee-gameplay-mod.221137/) map, made by [Spellbound](https://www.hiveworkshop.com/members/spellbound.116571/), for Warcraft 3.
 All credits for the art i used to make this skin should go to him. I own none of it and will remove this if promted.
 ___
 This is what the end result looks like:
