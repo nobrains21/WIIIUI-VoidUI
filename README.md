@@ -7,7 +7,7 @@ Skin is based on UI for [Heaven's Fall](https://www.hiveworkshop.com/threads/hea
 All credits for the art i used to make this skin should go to him. I own none of it and will remove this if promted.
 ___
 This is what the end result looks like:
-![void2](https://user-images.githubusercontent.com/59528934/153576842-7be67efe-f644-4c22-8bdf-7e0832173827.png)
+![void1](https://user-images.githubusercontent.com/59528934/154421787-1d541923-37dc-4f29-9ae7-c05375520406.png)
  
 # Installation
 - Download [WIIIUI Addon](https://github.com/Fiurs-Hearth/WIIIUI) and install it;
@@ -22,4 +22,3 @@ Feel free to bash me for leaving some unfinished stuff here and there.
  
 # Known issues:
 - the chat bar goes as high as 83, making it any higher in the settings will break the left vertical line. I dont know how to make it longer.
-- middle bar looks like it was built out of small pieces. layed down on top of each other. The mod stiches them together like that. I think this could be fixed later, after the next update for WIIIUI
